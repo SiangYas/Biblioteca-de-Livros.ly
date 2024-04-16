@@ -28,7 +28,6 @@ class Livro:
         print(f"ISBN: {self.isbn}")
         print(f"Status: {status}")
 
-
 class Usuario:
     def __init__(self, nome, idade, id_usuario):
         self.nome = nome
